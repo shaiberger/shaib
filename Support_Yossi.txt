@@ -1,0 +1,6 @@
+01861561: Apply Batch table having wrong information - did we give them explanation? what can we write in teh case as a closing reason.
+	Customer in the case is not willing to close it saying:
+	"Table is present in only one tasks, not in multiple tasks. So we need solution for this though there is no impact on data.  Why only this table giving the wrong information?"
+
+01868355: Missing Records in GCOND stage table in Prodution compose - are we asking the cutsoemr about teh steps Shai described? did you discuss this with them?
+
